@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "The Cosmo Sapiens Hypothesis",
+  "author": {
+    "@type": "Person",
+    "name": "Dev"
+  },
+  "description": "The Cosmo Sapiens Hypothesis proposes engineered human origins through extraterrestrial genomic adaptation.",
+  "datePublished": "2025-01-01",
+  "url": "https://thedevnaath.github.io/cosmo-sapiens-hypothesis/",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://thedevnaath.github.io/cosmo-sapiens-hypothesis/Cosmo_Sapiens_Hypothesis.pdf",
+    "encodingFormat": "application/pdf"
+  }
+}
