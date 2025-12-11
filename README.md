@@ -1,19 +1,23 @@
-# cosmo-sapiens-hypothesis
-The Cosmo Sapiens Hypothesis proposes that humans may be an Earth-adapted extension of a technologically advanced extraterrestrial lineage. It suggests that our rapid cognitive evolution and exceptional consciousness could reflect intentional genomic engineering rather than purely natural evolutionary processes.
+# Homo Aliens Hypothesis  
+### Official Research Publication Repository  
+Author: **Dev**
 
-# The Cosmo Sapiens Hypothesis
+This repository hosts the official website and documents for the **Homo Aliens Hypothesis**, a theoretical research framework proposing that modern humans may be an engineered, Earth-adapted continuation of an extraterrestrial lineage.
 
-A theoretical research paper proposing that human origins may involve engineered genomic adaptation by an advanced non-terrestrial lineage.
+## Contents
+- Full research paper (HTML version)
+- Downloadable PDF
+- SEO-optimized static website
+- Structured data for Google Scholar indexing
+- Sitemap and robots configuration for maximum discoverability
 
-This repository includes:
+## Website
+Live site hosted via GitHub Pages:  
+**https://thedevnaath.github.io/homo-aliens-hypothesis/**
 
-- Full PDF of the research paper  
-- Full SEO-optimized website  
-- Structured data (schema)  
-- Sitemap and robots configuration  
+## Purpose
+To make the hypothesis publicly accessible, indexable, citable, and independently studied.
 
-Visit the live site:  
-https://thedevnaath.github.io/cosmo-sapiens-hypothesis/
-
-Download the PDF:  
-https://thedevnaath.github.io/cosmo-sapiens-hypothesis/Cosmo_Sapiens_Hypothesis.pdf
+## License
+This work is copyrighted by Dev.  
+You may reference the content with attribution.
