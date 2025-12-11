@@ -1,17 +1,25 @@
 {
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
-  "name": "The Cosmo Sapiens Hypothesis",
+  "name": "The Homo Aliens Hypothesis",
   "author": {
     "@type": "Person",
     "name": "Dev"
   },
-  "description": "The Cosmo Sapiens Hypothesis proposes engineered human origins through extraterrestrial genomic adaptation.",
+  "description": "The Homo Aliens Hypothesis proposes that Homo sapiens may originate from an extraterrestrial lineage through deliberate genome adaptation engineered for Earth-based biochemistry.",
   "datePublished": "2025-01-01",
-  "url": "https://thedevnaath.github.io/cosmo-sapiens-hypothesis/",
+  "url": "https://thedevnaath.github.io/homo-aliens-hypothesis/",
   "encoding": {
     "@type": "MediaObject",
-    "contentUrl": "https://thedevnaath.github.io/cosmo-sapiens-hypothesis/Cosmo_Sapiens_Hypothesis.pdf",
+    "contentUrl": "https://thedevnaath.github.io/homo-aliens-hypothesis/Homo_Aliens_Hypothesis.pdf",
     "encodingFormat": "application/pdf"
-  }
+  },
+  "keywords": [
+    "Homo Aliens Hypothesis",
+    "extraterrestrial origins",
+    "genomic engineering",
+    "human evolution theory",
+    "astrobiology",
+    "cosmic anthropology"
+  ]
 }
