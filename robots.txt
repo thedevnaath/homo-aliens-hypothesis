@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thedevnaath.github.io/cosmo-sapiens-hypothesis/sitemap.xml
