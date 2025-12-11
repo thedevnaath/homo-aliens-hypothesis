@@ -1,30 +1,44 @@
 body {
-    font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
-    color: #333;
-    background: #fafafa;
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    color: #111;
 }
 
 header {
     text-align: center;
-    padding: 50px 20px;
+    padding: 40px 20px;
     background: #000;
-    color: #fff;
+    color: white;
 }
 
-section {
-    padding: 30px 20px;
-    max-width: 800px;
+h1 {
+    margin: 0;
+    font-size: 2.4rem;
+}
+
+main {
+    padding: 20px;
+    max-width: 900px;
     margin: auto;
 }
 
-.download-btn {
-    display: inline-block;
-    padding: 12px 24px;
+.paper {
+    margin-bottom: 40px;
+}
+
+.btn {
+    padding: 12px 20px;
     background: red;
-    color: #fff;
+    color: white;
     text-decoration: none;
     font-weight: bold;
-    border-radius: 8px;
+    border-radius: 6px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #f4f4f4;
+    margin-top: 40px;
 }
